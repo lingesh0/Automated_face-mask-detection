@@ -1,0 +1,4 @@
+train: D:/ML/Automated Face Mask Detection/face-mask-dataset/train/images
+val: D:/ML/Automated Face Mask Detection/face-mask-dataset/val/images
+nc: 2  # Number of classes
+names: ['no_mask', 'mask']
